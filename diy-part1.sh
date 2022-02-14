@@ -19,5 +19,5 @@
 git clone https://github.com/zyl740176835/openwrt-packages package/openwrt-packages
 git clone https://github.com/honwen/luci-app-aliddns package/luci-app-aliddns
 git clone https://github.com/rufengsuixing/luci-app-adguardhome package/luci-app-adguardhome
-git clone https://github.com/zyl740176835/smart-dns package/smartdns
+git clone https://github.com/zyl740176835/smart-dns package/smartDns
 git clone https://github.com/zyl740176835/luci-app-smartdns package/luci-app-smartdns
