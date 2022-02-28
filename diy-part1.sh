@@ -17,5 +17,6 @@
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #git clone https://github.com/zyl740176835/openwrt-packages package/openwrt-packages
 echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
+git clone https://github.com/zyl740176835/luci-app-smartdns package/luci-app-smartdns
 git clone https://github.com/honwen/luci-app-aliddns package/luci-app-aliddns
 git clone https://github.com/rufengsuixing/luci-app-adguardhome package/luci-app-adguardhome
